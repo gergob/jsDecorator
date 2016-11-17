@@ -1,0 +1,26 @@
+{
+  "name": "jsdecorator",
+  "version": "1.0.0",
+  "description": "The Decorator Design Pattern in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gergob/jsDecorator.git"
+  },
+  "keywords": [
+    "javascript",
+    "design",
+    "patterns",
+    "decorator",
+    "memoization"
+  ],
+  "author": "Csaba Hellinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gergob/jsDecorator/issues"
+  },
+  "homepage": "https://github.com/gergob/jsDecorator#readme"
+}
